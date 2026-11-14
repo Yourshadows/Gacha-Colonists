@@ -1,0 +1,1 @@
+Recruit new colonists using the recruitment system, with the help of silver! Each recruitment can bring a colonist of varying rarity, possessing six unique archetypes. I made this mod for myself, but I still decided to release it on Steam in case someone else wants to try gacha in RimWorld.
