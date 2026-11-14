@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GC_Title>Призыв колонистов</GC_Title>
+  <GC_SilverOnMap>Серебро на карте:</GC_SilverOnMap>
+  <GC_RatesAndPity>ШАНСЫ И ГАРАНТ</GC_RatesAndPity>
+  <GC_Rarity_R>Обычный</GC_Rarity_R>
+  <GC_Rarity_SR>Необычный</GC_Rarity_SR>
+  <GC_Rarity_SSR>Редкий</GC_Rarity_SSR>
+  <GC_Rarity_UR>Легендарный</GC_Rarity_UR>
+  <GC_GuaranteeHigh>Гарант редкого или легендарного</GC_GuaranteeHigh>
+  <GC_FifthGuarantee>Пятая крутка гарантирует редкого или легендарного колониста.</GC_FifthGuarantee>
+  <GC_Summon>ПРИЗЫВ</GC_Summon>
+  <GC_RandomColonist>СЛУЧАЙНЫЙ КОЛОНИСТ</GC_RandomColonist>
+  <GC_RaceArchetypeRarity>Раса · архетип · редкость</GC_RaceArchetypeRarity>
+  <GC_SummonOne>Призыв x1</GC_SummonOne>
+  <GC_SummonTen>Призыв x10</GC_SummonTen>
+  <GC_Silver>серебра</GC_Silver>
+  <GC_LastSummon>ПОСЛЕДНИЙ ПРИЗЫВ</GC_LastSummon>
+  <GC_Results>РЕЗУЛЬТАТЫ</GC_Results>
+  <GC_ResultsPlaceholder>Здесь появятся карточки последнего призыва с редкостью, расой и архетипом.</GC_ResultsPlaceholder>
+  <GC_Mech>Мех:</GC_Mech>
+  <GC_Psycasts>Псайкасты:</GC_Psycasts>
+  <GC_NeedColonyMap>Для призыва нужно находиться на карте колонии.</GC_NeedColonyMap>
+  <GC_NotEnoughSilver>Недостаточно серебра. Нужно:</GC_NotEnoughSilver>
+  <GC_SilverNotSpent>Не удалось создать колониста. Серебро не списано.</GC_SilverNotSpent>
+  <GC_SummonResults>Итоги призыва</GC_SummonResults>
+  <GC_PawnsArrive>Колонисты прибывают в капсулах. Редкость и специализация:</GC_PawnsArrive>
+  <GC_Archetype_Fighter>Боец</GC_Archetype_Fighter>
+  <GC_Archetype_Medic>Медик</GC_Archetype_Medic>
+  <GC_Archetype_Engineer>Инженер</GC_Archetype_Engineer>
+  <GC_Archetype_Ranger>Следопыт</GC_Archetype_Ranger>
+  <GC_Archetype_Leader>Лидер</GC_Archetype_Leader>
+  <GC_Archetype_Psycaster>Псионик</GC_Archetype_Psycaster>
+  <GC_SingleSummonCost>Стоимость одного призыва:</GC_SingleSummonCost>
+  <GC_TenSummonsCost>Стоимость десяти призывов:</GC_TenSummonsCost>
+</LanguageData>

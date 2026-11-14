@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GC_Title>Colonist Summons</GC_Title>
+  <GC_SilverOnMap>Silver on map:</GC_SilverOnMap>
+  <GC_RatesAndPity>RATES &amp; GUARANTEE</GC_RatesAndPity>
+  <GC_Rarity_R>Common</GC_Rarity_R>
+  <GC_Rarity_SR>Uncommon</GC_Rarity_SR>
+  <GC_Rarity_SSR>Rare</GC_Rarity_SSR>
+  <GC_Rarity_UR>Legendary</GC_Rarity_UR>
+  <GC_GuaranteeHigh>Guaranteed Rare or Legendary</GC_GuaranteeHigh>
+  <GC_FifthGuarantee>The fifth summon guarantees a Rare or Legendary colonist.</GC_FifthGuarantee>
+  <GC_Summon>SUMMON</GC_Summon>
+  <GC_RandomColonist>RANDOM COLONIST</GC_RandomColonist>
+  <GC_RaceArchetypeRarity>Race · archetype · rarity</GC_RaceArchetypeRarity>
+  <GC_SummonOne>Summon x1</GC_SummonOne>
+  <GC_SummonTen>Summon x10</GC_SummonTen>
+  <GC_Silver>silver</GC_Silver>
+  <GC_LastSummon>LAST SUMMON</GC_LastSummon>
+  <GC_Results>RESULTS</GC_Results>
+  <GC_ResultsPlaceholder>Results from your latest summon will appear here.</GC_ResultsPlaceholder>
+  <GC_Mech>Mech:</GC_Mech>
+  <GC_Psycasts>Psycasts:</GC_Psycasts>
+  <GC_NeedColonyMap>You need to be on a colony map to summon.</GC_NeedColonyMap>
+  <GC_NotEnoughSilver>Not enough silver. Required:</GC_NotEnoughSilver>
+  <GC_SilverNotSpent>Colonist generation failed. No silver was spent.</GC_SilverNotSpent>
+  <GC_SummonResults>Summon results</GC_SummonResults>
+  <GC_PawnsArrive>Colonists arrive in drop pods. Rarity and archetype:</GC_PawnsArrive>
+  <GC_Archetype_Fighter>Fighter</GC_Archetype_Fighter>
+  <GC_Archetype_Medic>Medic</GC_Archetype_Medic>
+  <GC_Archetype_Engineer>Engineer</GC_Archetype_Engineer>
+  <GC_Archetype_Ranger>Ranger</GC_Archetype_Ranger>
+  <GC_Archetype_Leader>Leader</GC_Archetype_Leader>
+  <GC_Archetype_Psycaster>Psycaster</GC_Archetype_Psycaster>
+  <GC_SingleSummonCost>Single summon cost:</GC_SingleSummonCost>
+  <GC_TenSummonsCost>Ten summons cost:</GC_TenSummonsCost>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Gacha Colonists</name>
+  <author>Shadows</author>
+  <modVersion>0.2.2</modVersion>
+  <packageId>Shadows.GachaColonists</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Recruit colonists through a silver-funded summon system. Adds rarity-based recruits and six archetypes.</description>
+</ModMetaData>
